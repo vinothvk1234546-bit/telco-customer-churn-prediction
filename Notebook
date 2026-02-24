@@ -1,0 +1,25 @@
+Sections:
+
+Problem Statement
+
+Data Loading
+
+Data Cleaning
+
+EDA
+
+  Target Variable Distribution
+
+  Churn vs Contract
+
+  Churn vs Monthly Charges
+
+  Correlation Heatmap
+
+Feature Engineering
+
+Model Building
+
+Model Evaluation
+
+Conclusion

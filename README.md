@@ -1,4 +1,4 @@
-# telco-customer-churn-prediction
+# Telco-Customer-Churn-Prediction
 End-to-end machine learning project to predict telecom customer churn using EDA, feature engineering, and Logistic Regression. Includes model evaluation and business insights.
 🔹 Project Title
 

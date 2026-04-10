@@ -9,3 +9,22 @@ Churn → Yes / No
 Reduce customer loss
 Improve retention strategies
 Increase revenue
+
+2️⃣ Data Collection
+
+Use dataset like:
+
+Telco Customer Churn (Kaggle)
+
+Typical columns:
+
+CustomerID
+Gender
+SeniorCitizen
+Tenure
+MonthlyCharges
+TotalCharges
+Contract
+PaymentMethod
+InternetService
+Churn
